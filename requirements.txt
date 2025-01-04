@@ -1,0 +1,36 @@
+# Core Libraries
+streamlit==1.39.0
+yt-dlp==2024.9.27
+ffmpeg-python==0.2.0
+
+# URL Parsing and Validation
+urllib3==2.2.3
+validators==0.34.0
+
+# Audio Metadata
+mutagen==1.47.0
+
+# Logging and Error Handling
+logging==0.5.1.2
+
+# Type Hinting and Utilities
+typing-extensions==4.12.2
+
+# Threading and Concurrency
+concurrent-futures==3.4.0
+
+# System and File Utilities
+setuptools==75.1.0
+wheel==0.44.0
+
+# Optional but Recommended
+python-dotenv==1.0.1
+tenacity==9.0.0
+
+# Development and Debugging
+pytest==8.3.3
+black==24.8.0
+mypy==1.11.2
+
+# Performance and Optimization
+psutil==6.0.0
