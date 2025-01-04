@@ -13,9 +13,6 @@ mutagen==1.47.0
 # Type Hinting and Utilities
 typing-extensions==4.12.2
 
-# Threading and Concurrency
-concurrent-futures==3.4.0
-
 # System and File Utilities
 setuptools==75.1.0
 wheel==0.44.0
